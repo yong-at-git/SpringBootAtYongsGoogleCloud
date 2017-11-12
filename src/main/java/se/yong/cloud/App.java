@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Created by Yong Huang <yong.huang@mitel.com> on 2017-11-12.
+ * Created by Yong Huang <yong.e.huang@gmail.com> on 2017-11-12.
  */
 @SpringBootApplication
 public class App {

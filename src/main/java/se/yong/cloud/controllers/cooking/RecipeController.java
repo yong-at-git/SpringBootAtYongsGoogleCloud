@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * Created by Yong Huang <yong.huang@mitel.com> on 2017-11-12.
+ * Created by Yong Huang <yong.e.huang@gmail.com> on 2017-11-12.
  */
 @RestController
 @RequestMapping("/recipes")

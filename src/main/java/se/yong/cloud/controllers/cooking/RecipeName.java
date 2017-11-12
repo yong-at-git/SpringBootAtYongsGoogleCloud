@@ -1,7 +1,7 @@
 package se.yong.cloud.controllers.cooking;
 
 /**
- * Created by Yong Huang <yong.huang@mitel.com> on 2017-11-12.
+ * Created by Yong Huang <yong.e.huang@gmail.com> on 2017-11-12.
  */
 public enum RecipeName {
     CHINESE_TOMATO_EGG_STIR_FRY("Chinese tomato egg stir-fry");

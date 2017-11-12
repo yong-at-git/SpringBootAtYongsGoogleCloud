@@ -3,7 +3,7 @@ package se.yong.cloud.controllers.cooking;
 import java.util.Optional;
 
 /**
- * Created by Yong Huang <yong.huang@mitel.com> on 2017-11-12.
+ * Created by Yong Huang <yong.e.huang@gmail.com> on 2017-11-12.
  */
 public class RecipeProducer {
     public static Optional<Recipe> getRecipe(RecipeName recipeName) {
